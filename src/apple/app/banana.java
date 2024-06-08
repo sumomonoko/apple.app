@@ -44,7 +44,7 @@ public class banana {
 	    String text = "プログラミングを勉強しよう";
 	    System.out.println("Progateで"+text);
 	    
-	    // 変数の更新(上書き)
+	    // 変数の更新(上書き)  32行目,38行目を変更
 	    number = 11;
 	    name = "Satou";
 	    System.out.println(number);
