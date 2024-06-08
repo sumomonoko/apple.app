@@ -50,6 +50,17 @@ public class banana {
 	    System.out.println(number);
 	    System.out.println(name);
 	    
-	    
+//      自己代入
+	    number = number + 4;
+	    System.out.println(number);
+	    // 自己代入の省略した書き方
+	    // 基本形　　　　　　　　　　　省略形
+	    // x = x + 10;     →      x += 10;
+	    // x = x - 10;     →      x -= 10;
+	    // x = x * 10;     →      x *= 10;
+	    // x = x / 10;     →      x /= 10;
+	    // x = x % 10;     →      x %= 10;
+	    // 1をたす場合　→     x++;
+	    // 1をひく場合　→　　　x--;
 	}
 }
